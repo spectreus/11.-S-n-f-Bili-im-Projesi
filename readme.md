@@ -21,3 +21,12 @@ Bu proje, aşağıdaki adımları içerecektir:
 9. Proje test edilecek ve sonuçlar değerlendirilecektir.
 10. Proje teslim edilecektir.
 
+<h1><b>Screenshots</b></h1>
+
+![sc1](https://hizliresim.com/brwru16.jpeg)
+
+
+![sc2](https://hizliresim.com/4r5hhh4.jpeg)
+
+
+![sc3](https://hizliresim.com/5uhfyxp.jpeg)
